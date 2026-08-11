@@ -7,6 +7,9 @@ Move your pointer to stir the flow; click to send a pulse rippling through it.
 
 ## Run it
 
+## Live 
+https://frenzelferrer.github.io/Flowfield/
+
 Open `index.html` in any modern browser — that's it. It also works served from
 any static host.
 
